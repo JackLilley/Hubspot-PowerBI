@@ -1,5 +1,5 @@
 # Microsoft Power BI Custom Data Connectors
-This is a repository of custom data connectors to Power BI developed by Jack Lilley [jacklilley.us]
+This is a repository of custom data connectors to Power BI developed by Jack Lilley
 
 ## Available custom data connectors
 * [HubSpot](#the-hubspot-connector)
